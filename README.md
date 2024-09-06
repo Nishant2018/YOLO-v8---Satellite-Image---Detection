@@ -14,7 +14,7 @@ The YOLOv8 model has been trained on satellite images and achieved the following
 
 ## Dataset
 
-The dataset used for training and evaluation consists of satellite images annotated with objects of interest. You can access the code from [Kaggle](https://www.kaggle.com/endofnight17j03.
+The dataset used for training and evaluation consists of satellite images annotated with objects of interest. You can access the code from [Kaggle](https://www.kaggle.com/endofnight17j03).
 
 
 ## Getting Started
