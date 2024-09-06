@@ -1,4 +1,3 @@
-```markdown
 # Satellite Image Detection Using YOLOv8
 
 ![Satellite Detection](https://github.com/Nishant2018/YOLO-v8---Satellite-Image---Detection/blob/main/1_OGJeILFz3XjgiYP-7-IG-w.png)
