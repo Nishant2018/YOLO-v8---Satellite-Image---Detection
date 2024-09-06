@@ -80,7 +80,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ```
-
-Make sure to replace `path_to_image.png` with the actual path to your image and update the Kaggle link accordingly.
-
-Let me know if you need any other modifications!
