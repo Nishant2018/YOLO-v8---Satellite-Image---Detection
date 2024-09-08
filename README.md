@@ -10,7 +10,7 @@ The YOLOv8 model has been trained on satellite images and achieved the following
    
 - **mAP (Mean Average Precision):** 59.3%
 - **Precision:** 60.0%
-- **Recall:** 59.6%
+- **Recall:** 59.6%  
 
 ## Dataset
 
