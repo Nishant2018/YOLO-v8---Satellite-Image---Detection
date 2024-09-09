@@ -8,7 +8,7 @@ This project demonstrates the detection of objects in satellite images using the
 
 The YOLOv8 model has been trained on satellite images and achieved the following performance metrics:
    
-- **mAP (Mean Average Precision):** 59.3%
+- **mAP (Mean Average Precision):** 59.3%   
 - **Precision:** 60.0%
 - **Recall:** 59.6%  
 
