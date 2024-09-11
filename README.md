@@ -5,7 +5,7 @@
 This project demonstrates the detection of objects in satellite images using the YOLOv8 (You Only Look Once) model. The goal of the project is to identify objects like buildings, vehicles, and other significant features in satellite imagery.
    
 ## Model Performance
-
+   
 The YOLOv8 model has been trained on satellite images and achieved the following performance metrics:
    
 - **mAP (Mean Average Precision):** 59.3%   
