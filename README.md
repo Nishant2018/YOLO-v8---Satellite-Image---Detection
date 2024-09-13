@@ -11,7 +11,7 @@ The YOLOv8 model has been trained on satellite images and achieved the following
 - **mAP (Mean Average Precision):** 59.3%   
 - **Precision:** 60.0%
 - **Recall:** 59.6%  
-
+   
 ## Dataset
 
 The dataset used for training and evaluation consists of satellite images annotated with objects of interest. You can access the code from [Kaggle](https://www.kaggle.com/endofnight17j03).
