@@ -28,7 +28,7 @@ The dataset used for training and evaluation consists of satellite images annota
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```bash   
    git clone https://github.com/Nishant2018/YOLO-v8---Satellite-Image---Detection.git
    cd YOLO-v8---Satellite-Image---Detection
    ```
